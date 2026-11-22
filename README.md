@@ -1,7 +1,7 @@
 # nyx_ws_server
 
-![Coverage](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/snuids/nyx_ws_server/badges/coverage.json&style=flat-square)
-![CI](https://img.shields.io/github/actions/workflow/status/snuids/nyx_ws_server/ci-tests.yml?style=flat-square&label=tests)
+![Coverage](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Indian-Runners/nyx_ws_server/badges/coverage.json&style=flat-square)
+![CI](https://img.shields.io/github/actions/workflow/status/Indian-Runners/nyx_ws_server/ci-tests.yml?style=flat-square&label=tests)
 
 Use the following environment variables:
 
